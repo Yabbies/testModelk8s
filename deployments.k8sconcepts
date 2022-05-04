@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<k8s:Deployments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:k8s="org.palladiosimulator.kubernetesModel.k8sconcepts">
+  <deploymentInstances id="_AnIUkMuREey2csN489pDvw">
+    <podReference href="default.repository#_C3nzRLeeEeyyHJjz7N8N5Q"/>
+  </deploymentInstances>
+</k8s:Deployments>
